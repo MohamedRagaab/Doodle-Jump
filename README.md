@@ -1,2 +1,2 @@
 # Doodle Jump
-Doodle Jump is a browser game developed by JavaScript
+Doodle Jump is a browser game developed with JavaScript
